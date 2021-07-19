@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.creditmanager"
+    },
+    "jhipsterVersion": "6.10.5",
+    "applicationType": "monolith",
+    "baseName": "creditmanager",
+    "packageName": "com.creditmanager",
+    "packageFolder": "com/creditmanager",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "oracle",
+    "prodDatabaseType": "oracle",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "NGIzM2U3ZjU0NWIxMDFhNzRlNTdmODRjNzI2MGQyZDliNmJiODQ5YTNhYTdjYTYzZWRjNzNiMzIwNWVhMmM3MjBmZWRmNjAwNzYwNjc3ODNiNzQ1ZTJiYWM4N2I2ZWU1MmRiMTJkYmFjMjAxNTViYzMwODVkZjE5YjNlMjI5Y2U=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "cosmo",
+    "clientThemeVariant": "primary",
+    "creationTimestamp": 1626696624327,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "blueprints": []
+  }
+}
